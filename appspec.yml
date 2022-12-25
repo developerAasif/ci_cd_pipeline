@@ -4,7 +4,7 @@ os: ubuntu
 
 files:
   - source: /
-    destination: /var/www/html
+    destination: /app
     overwrite: true
 
 permissions:
