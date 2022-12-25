@@ -4,7 +4,7 @@ os: ubuntu
 
 files:
   - source: /
-    destination: /app
+    destination: /var/www/html/pipeline
     overwrite: true
 
 permissions:
