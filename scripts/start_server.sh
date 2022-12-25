@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # navigate to app folder
-cd /var/www/html
+cd /var/www/html/pipeline
 
 # initial startup by running react-script "start", name process "marketing"
 # --watch watches and restarts if files change
